@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxmudjon</h1>
 <h3 align="center">A passionate flutetr developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **Bloc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
